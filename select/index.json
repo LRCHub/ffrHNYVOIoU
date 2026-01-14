@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "史上最幸NEW YEAR!",
+  "base_artist": "猫足 蕾 (CV.芹澤 優)",
+  "createdAt": "2026-01-14T08:42:50.675149Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "史上最幸NEW YEAR!",
+      "artist": "猫足 蕾 (CV.芹澤 優)",
+      "has_synced": false,
+      "path": "select/pl_01_史上最幸NEW_YEAR!_猫足_蕾_(CV.芹澤_優).txt"
+    }
+  ]
+}
